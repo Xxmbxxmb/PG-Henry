@@ -1,6 +1,52 @@
-# Proyecto grupal Henry
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-Integrantes:
+# Group Project - ProdeMaster
+
+<img src="https://i.imgur.com/Gu9Zzqu.png"   />
+<img src="https://i.imgur.com/ZgRHUeD.png"  />
+<img src="https://i.imgur.com/BVpathh.png"   />
+
+<br>
+
+## Project Objectives
+
+- Build an App from scratch using React, Redux Toolkit, Node and Prisma.
+- To affirm and connect the concepts learned in the course.
+- Learn best practices.
+- Learn and practice the GIT workflow.
+
+## Content
+
+There are two folders: `api` and `client`. In these folders will be the back-end and front-end code respectively.
+
+## Description
+
+The application allows you to create and join different tournaments (public or private) around the world, along with relevant information about these tournaments such as the prize pool, standings and more:
+
+- Search for tournaments
+- Filter / Sort them
+- Create new tournaments, public or private to participate with friends.
+- Create profile with the ability to modify it.
+- To be able to review the site.
+
+#### Technologies used
+- Typescript
+- Chakra-ui
+- React
+- Redux Toolkit
+- Express
+- Prism
+- Postgres
+
+## Quick Start
+
++ Clone repository
++ Run "npm install" command in api folder and client folder
++ Run "npm start" command in api folder and client folder
++ Open http://localhost:3000 in your browser
+
+
+## Members
 
 - Alejandro Guil. alejandro.i.guil@gmail.com
 - Diego Cerda. diegocerdacelis@hotmail.com

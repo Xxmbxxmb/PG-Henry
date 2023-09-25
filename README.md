@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 # Group Project - ProdeMaster
 
 <a href="https://prodemaster.netlify.app/" fontSize="34">
